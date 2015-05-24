@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\User%27s_Data\Documents\GitHub\MyGame\Project1\test\DrawPixel.cpp">
+    <ClCompile Include="..\..\..\..\..\..\Owner%27s Data\Documents\GitHub\MyGame\Project1\test\DrawPixel.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
